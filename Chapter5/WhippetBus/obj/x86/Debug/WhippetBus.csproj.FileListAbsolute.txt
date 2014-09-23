@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-5-Kyle-and-Abdallah\Chapter5\WhippetBus\bin\Debug\WhippetBus.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5-Kyle-and-Abdallah\Chapter5\WhippetBus\bin\Debug\WhippetBus.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-5-Kyle-and-Abdallah\Chapter5\WhippetBus\obj\x86\Debug\WhippetBus.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5-Kyle-and-Abdallah\Chapter5\WhippetBus\obj\x86\Debug\WhippetBus.pdb
