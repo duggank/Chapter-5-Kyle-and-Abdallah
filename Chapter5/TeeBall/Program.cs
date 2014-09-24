@@ -12,14 +12,14 @@ namespace TeeBall
             int[] jersey = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 };
             int playnumber;
             int playnumber2;
-            int bases;
-            int bases2;
+            int userbase;
+            int userbase2;
 
             Console.Write("Enter the player number: ");
             playnumber = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("Enter the bases: ");
-            bases = Convert.ToInt32(Console.ReadLine()); 
+            userbase = Convert.ToInt32(Console.ReadLine()); 
 
             for (int i = 0; i < 100; i++)
             {
@@ -30,9 +30,9 @@ namespace TeeBall
                     break;
 
                 Console.Write("Enter the bases: ");
-                bases2 = Convert.ToInt32(Console.ReadLine());
+                userbase2 = Convert.ToInt32(Console.ReadLine());
 
-                if (bases >= 4 || bases2 >= 4)
+                if (userbase >= 4 || userbase2 >= 4)
                     Console.WriteLine("***Error in number of bases: 5 is too high");
 
 
@@ -41,8 +41,14 @@ namespace TeeBall
                   
                 }
             }
+            Console.WriteLine("");
+            Console.WriteLine("");
 
             Console.WriteLine("Player Summary");
+            Console.WriteLine("Player:   Bases:");
+
+            int[,] grid =
+
         }
     }
 }
